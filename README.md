@@ -23,5 +23,10 @@ npm run unit
 # run all tests
 npm test
 ```
+<<<<<<< HEAD
 # ????? https://selectyang.github.io/Resume/dist/
+=======
+预览地址：  https://selectyang.github.io/Resume/dist/
+
+>>>>>>> 6f5e43ac264a226a2f2629e527ba34177b231c88
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
